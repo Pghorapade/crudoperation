@@ -1,6 +1,5 @@
 var LocalStrategy = require('passport-local').Strategy;
 
-
 // load up the user model
 var User = require('../model/user');
 
